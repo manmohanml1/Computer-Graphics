@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631844428 source:c:\chetan files\csci272\firstproj\main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1612228940 c:\chetan files\csci272\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
