@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1636690461 source:c:\chetan files\csci272\bun\main.cpp
+	<SOIL.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
+1612228940 c:\chetan files\csci272\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1613613471 c:\chetan files\csci272\common\include\soil.h
+
+1637389336 source:c:\chetan files\csci272\project_4\bun\main.cpp
+	<SOIL.h>
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+	<math.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdio.h>
+
